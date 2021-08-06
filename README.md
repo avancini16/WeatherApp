@@ -1,4 +1,6 @@
-## Henry Weather
+## Weather App
+
+<!-- ## Henry Weather
 
 
 ### Ejercitación
@@ -224,4 +226,4 @@ El filter nos devuelve un arreglo, que puede tener uno o cero elementos. Por lo 
   exact path='/ciudad/:ciudadId'
   render={({match}) => <Ciudad city={onFilter(match.params.ciudadId)}/>}
 />
-```
+``` -->
