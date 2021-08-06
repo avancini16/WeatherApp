@@ -1,0 +1,17 @@
+.cont{
+    background-color: #3F3B38;
+    width: 900px;
+    height: 450px;
+    margin-left: 235px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.text{
+    color: white;
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+}

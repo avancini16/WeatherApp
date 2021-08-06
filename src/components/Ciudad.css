@@ -1,0 +1,13 @@
+.container{
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.closeIcon {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 8px;
+    margin-top: 8px;
+  }
