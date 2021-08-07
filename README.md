@@ -1,6 +1,11 @@
 ## Weather App 
 
-<code><img width="10%" height="50px" src="https://github.com/avancini16/WeatherApp/blob/main/images/WeatherApp 1.png"></code>
+<p>
+  <a><img src="https://github.com/avancini16/WeatherApp/blob/main/images/WeatherApp 1.png"></a>
+  <a><img src="https://github.com/avancini16/WeatherApp/blob/main/images/WeatherApp 2.png"></a>
+  <a><img src="https://github.com/avancini16/WeatherApp/blob/main/images/WeatherApp 3.png"></a>
+</p>
+
 
 <!-- ## Henry Weather
 
